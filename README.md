@@ -13,6 +13,7 @@ Pears is Open Source Software dedicated to facilitating the development, deploym
 
 - [Stack Outline](#stack-outline)
 - [Official Resources](#official-resources)
+- [Quick Install](#quick-install)
 - [Deployed P2P with Pear CLI](#deployed-p2p-with-pear-cli)
   - [Production Applications](#production-applications)
   - [Applied Demonstrations](#applied-demonstrations)
@@ -50,6 +51,33 @@ Pears is Open Source Software dedicated to facilitating the development, deploym
 * [How To](https://docs.pears.com/how-to/)
 * [News](https://pears.com/news)
 * [Repositories](https://github.com/holepunchto)
+
+## Quick Install
+
+Linux & macOS [install script](https://install.pears.com/pear.sh)
+
+```sh
+curl https://install.pears.com/pear.sh | sh
+```
+
+Windows Powershell [install script](https://install.pears.com/pear.ps1):
+
+```sh
+irm https://install.pears.com/pear.ps1 | iex
+```
+
+Using `npx`, requires Node.js+npm to be installed on system:
+
+```sh
+npx pear
+```
+
+Whether via install script or package manager Pear CLI is always installed to the same location:
+
+* macOS: `~/.local/bin/pear`
+* Linux: `~/.local/bin/pear`
+* Windows: `%LOCALAPPDATA%\Programs\pear\pear.exe`
+
 
 ## Deployed P2P with Pear CLI
 
