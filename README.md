@@ -54,7 +54,7 @@ Pears is Open Source Software dedicated to facilitating the development, deploym
 
 ## Quick Install
 
-Linux & macOS [install script](https://install.pears.com/pear.sh)
+Linux & macOS [install script](https://install.pears.com/pear.sh):
 
 ```sh
 curl https://install.pears.com/pear.sh | sh
