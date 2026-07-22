@@ -9,6 +9,28 @@ Pears is Open Source Software dedicated to facilitating the development, deploym
 
 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐
 
+## Table of Contents
+
+- [Stack Outline](#stack-outline)
+- [Official Resources](#official-resources)
+- [Deployed P2P with Pear CLI](#deployed-p2p-with-pear-cli)
+  - [Production Applications](#production-applications)
+  - [Applied Demonstrations](#applied-demonstrations)
+  - [Community Projects](#community-projects)
+- [Learning Resources](#learning-resources)
+- [Boilerplates](#boilerplates)
+- [Articles](#articles)
+- [Videos](#videos)
+- [Stack Tools](#stack-tools)
+- [Availability](#availability)
+- [Testing](#testing)
+- [Insights](#insights)
+- [Interops](#interops)
+- [Native](#native)
+- [Engines](#engines)
+- [Community Groups](#community-groups)
+- [License](#license)
+
 ## Stack Outline
 
 * [pear](https://docs.pears.com/reference/pear/cli/) - P2P Deployment & Installation Command Line Interface (CLI)
@@ -38,8 +60,8 @@ These applications are deployed with [pear](https://docs.pears.com/reference/pea
 [Keet](https://keet.io) - peer-to-peer private messenger with audio/video calls, groups, broadcasts and more for Desktop & Mobile
 
 [PearPass](https://pass.pears.com) - Open-Source peer-to-peer password manager for Desktop & Mobile.
-  * [Desktop Github](https://github.com/tetherto/pearpass-app-desktop)
-  * [Mobile Github](https://github.com/tetherto/pearpass-mobile-desktop)
+  * [Desktop Repo](https://github.com/tetherto/pearpass-app-desktop)
+  * [Mobile Repo](https://github.com/tetherto/pearpass-mobile-desktop)
 
 ### Applied Demonstrations
 
@@ -50,10 +72,10 @@ These applications are deployed with [pear](https://docs.pears.com/reference/pea
 
 * [Pear Draw](https://github.com/stickyburn/pear-draw)
 * [PearDrop](https://peardrop.online)
-  * [Desktop Github](https://github.com/geordangesink/PearDrop-Desktop)
-  * [Mobile Github](https://github.com/geordangesink/PearDrop-Mobile)
+  * [Desktop Repo](https://github.com/geordangesink/PearDrop-Desktop)
+  * [Mobile Repo](https://github.com/geordangesink/PearDrop-Mobile)
 * [PearPetal](https://peerloomllc.com/pearpetal/)
-  * [Mobile Github](https://github.com/peerloomllc/pearpetal)
+  * [Mobile Repo](https://github.com/peerloomllc/pearpetal)
 
 ## Learning Resources
 
