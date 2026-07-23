@@ -1,18 +1,18 @@
 # **Awesome Pears**
 
-🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 
+🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 
 
-Official collection of awesome things regarding [Pears](https://docs.pears.com).
+Collection of awesome things regarding [Pears](https://docs.pears.com).
 
-Pears is Open Source Software dedicated to facilitating the development, deployment and discovery of peer-to-peer applications & systems.
+The Pear Ecosystem is OSS dedicated to facilitating the development,
+deployment and discovery of peer-to-peer applications & systems.
 
-
-🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐
+🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐 ⭐️ 🍐
 
 ## Table of Contents
 
 - [Stack Outline](#stack-outline)
-- [Official Resources](#official-resources)
+- [Pears Resources](#pears-resources)
 - [Quick Install](#quick-install)
 - [Deployed P2P with Pear CLI](#deployed-p2p-with-pear-cli)
   - [Production Applications](#production-applications)
@@ -43,7 +43,7 @@ Pears is Open Source Software dedicated to facilitating the development, deploym
 * [bare-kit](https://github.com/holepunchto/bare-kit) - Native mobile (iOS/Android) bare integration
 * [bare*](https://github.com/search?q=org%3Aholepunchto+bare&type=repositories) module ecosystem - Native Primitives
 
-## Official Resources
+## Pears Resources
 
 * [Install](https://install.pears.com)
 * [Docs](https://docs.pears.com)
