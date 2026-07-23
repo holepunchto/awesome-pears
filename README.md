@@ -93,10 +93,14 @@ These applications are deployed with [pear](https://docs.pears.com/reference/pea
 
 ### Applied Demonstrations
 
+Reference applications exploring peer-to-peer application delivery in various scenarios.
+
 * [`swap`](https://github.com/holepunchto/swap) terminal program, atomically swap two file paths on-disk, evergreen command with peer-to-peer over-the-air updates
 * [`snake`](https://github.com/holepunchto/snake) desktop app, peer-to-peer snake
 
-### Community Projects
+### Community Deployments
+
+Applications deployed with Pear CLI by independent makers. For project-specific details, support, and updates, refer to the respective project documentation and maintainers. These links are examples of community work; the projects are managed by their respective makers.
 
 * [Pear Draw](https://github.com/stickyburn/pear-draw)
 * [PearDrop](https://peardrop.online)
