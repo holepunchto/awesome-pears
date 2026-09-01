@@ -17,7 +17,7 @@ deployment and discovery of peer-to-peer applications & systems.
 - [Deployed P2P with Pear CLI](#deployed-p2p-with-pear-cli)
   - [Production Applications](#production-applications)
   - [Applied Demonstrations](#applied-demonstrations)
-  - [Community Projects](#community-projects)
+  - [Community Deployments](#community-deployments)
 - [Learning Resources](#learning-resources)
 - [Boilerplates](#boilerplates)
 - [Articles](#articles)
