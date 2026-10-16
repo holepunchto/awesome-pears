@@ -116,10 +116,14 @@ Applications deployed with Pear CLI by independent makers. For project-specific 
   * [Desktop & Mobile Repo](https://github.com/peerloomllc/pearguard)
 * [PearList](https://peerloomllc.com/pearlist/)
   * [Mobile Repo](https://github.com/peerloomllc/pearlist)
+* [PearOffice](https://peerloomllc.com/pearoffice/)
+  * [Desktop & Mobile Repo](https://github.com/peerloomllc/pearoffice)
 * [PearPetal](https://peerloomllc.com/pearpetal/)
   * [Mobile Repo](https://github.com/peerloomllc/pearpetal)
 * [PearTune](https://peerloomllc.com/peartune/)
   * [Mobile & Host Repo](https://github.com/peerloomllc/peartune)
+* [PeerLoom Seeder](https://peerloomllc.com/seeder/)
+  * [Desktop & Server Repo](https://github.com/peerloomllc/peerloom-seeder)
 
 ## Learning Resources
 
