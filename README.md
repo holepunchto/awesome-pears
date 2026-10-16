@@ -103,11 +103,27 @@ Reference applications exploring peer-to-peer application delivery in various sc
 Applications deployed with Pear CLI by independent makers. For project-specific details, support, and updates, refer to the respective project documentation and maintainers. These links are examples of community work; the projects are managed by their respective makers.
 
 * [Pear Draw](https://github.com/stickyburn/pear-draw)
+* [PearCal](https://peerloomllc.com/pearcal/)
+  * [Desktop & Mobile Repo](https://github.com/peerloomllc/pearcal-native)
+* [PearCinema](https://peerloomllc.com/pearcinema/)
+  * [Mobile & Host Repo](https://github.com/peerloomllc/pearcinema)
+* [PearCircle](https://peerloomllc.com/pearcircle/)
+  * [Mobile Repo](https://github.com/peerloomllc/pearcircle)
 * [PearDrop](https://peardrop.online)
   * [Desktop Repo](https://github.com/geordangesink/PearDrop-Desktop)
   * [Mobile Repo](https://github.com/geordangesink/PearDrop-Mobile)
+* [PearGuard](https://peerloomllc.com/pearguard/)
+  * [Desktop & Mobile Repo](https://github.com/peerloomllc/pearguard)
+* [PearList](https://peerloomllc.com/pearlist/)
+  * [Mobile Repo](https://github.com/peerloomllc/pearlist)
+* [PearOffice](https://peerloomllc.com/pearoffice/)
+  * [Desktop & Mobile Repo](https://github.com/peerloomllc/pearoffice)
 * [PearPetal](https://peerloomllc.com/pearpetal/)
   * [Mobile Repo](https://github.com/peerloomllc/pearpetal)
+* [PearTune](https://peerloomllc.com/peartune/)
+  * [Mobile & Host Repo](https://github.com/peerloomllc/peartune)
+* [PeerLoom Seeder](https://peerloomllc.com/seeder/)
+  * [Desktop & Server Repo](https://github.com/peerloomllc/peerloom-seeder)
 
 ## Learning Resources
 
