@@ -117,12 +117,11 @@ Applications deployed with Pear CLI by independent makers. For project-specific 
 
 * Desktop
   * [Hello Pear Electron](https://github.com/holepunchto/hello-pear-electron)
-<!--* Mobile
-  * [Hello Pear React Native](https://github.com/holepunchto/hello-pear-react-native)-->
+* Mobile
+  * [Hello Pear React Native](https://github.com/holepunchto/hello-pear-react-native)
 * Terminal
-  * [Hello Pear Bare](https://github.com/holepunchto/hello-pear-bare) (default worker)
-  * [Hello Pear Bare:Single Thread](https://github.com/holepunchto/hello-pear-bare/tree/variant/single-thread) (single-thread variant)
-  * [Hello Pear Bare:Daemon Updater](https://github.com/holepunchto/hello-pear-bare/tree/variant/daemon) (daemon updater variant)
+  * [Hello Pear Bare](https://github.com/holepunchto/hello-pear-bare) (worker updater)
+  * [Hello Pear Daemon](https://github.com/holepunchto/hello-pear-daemon) (daemon updater)
 <!--* Hybrid
   * [Hello Pear Bare Native](https://github.com/holepunchto/hello-pear-bare-native)-->
 * Local Backend
