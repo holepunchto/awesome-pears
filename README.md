@@ -102,6 +102,8 @@ Reference applications exploring peer-to-peer application delivery in various sc
 
 Applications deployed with Pear CLI by independent makers. For project-specific details, support, and updates, refer to the respective project documentation and maintainers. These links are examples of community work; the projects are managed by their respective makers.
 
+* [Capy](https://capy.ciranda.dev)
+  * [Releases & Issues](https://github.com/ciranda-dev/capy-releases)
 * [Pear Draw](https://github.com/stickyburn/pear-draw)
 * [PearDrop](https://peardrop.online)
   * [Desktop Repo](https://github.com/geordangesink/PearDrop-Desktop)
