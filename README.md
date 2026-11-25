@@ -141,6 +141,7 @@ Applications deployed with Pear CLI by independent makers. For project-specific 
   * [Hello Pear React Native](https://github.com/holepunchto/hello-pear-react-native)
 * Terminal
   * [Hello Pear Bare](https://github.com/holepunchto/hello-pear-bare) (worker updater)
+  * [Hello Pear Bare TUI](https://github.com/holepunchto/hello-pear-bare-tui) (worker updater + TUI)
   * [Hello Pear Daemon](https://github.com/holepunchto/hello-pear-daemon) (daemon updater)
 <!--* Hybrid
   * [Hello Pear Bare Native](https://github.com/holepunchto/hello-pear-bare-native)-->
