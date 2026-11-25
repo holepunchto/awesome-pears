@@ -104,6 +104,8 @@ Applications deployed with Pear CLI by independent makers. For project-specific 
 
 * [Capy](https://capy.ciranda.dev)
   * [Releases & Issues](https://github.com/ciranda-dev/capy-releases)
+* [Mirall](https://mirall.app)
+  * [Desktop Repo](https://github.com/ok/mirall)
 * [Pear Draw](https://github.com/stickyburn/pear-draw)
 * [PearCal](https://peerloomllc.com/pearcal/)
   * [Desktop & Mobile Repo](https://github.com/peerloomllc/pearcal-native)
