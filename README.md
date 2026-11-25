@@ -97,6 +97,7 @@ Reference applications exploring peer-to-peer application delivery in various sc
 
 * [`swap`](https://github.com/holepunchto/swap) terminal program, atomically swap two file paths on-disk, evergreen command with peer-to-peer over-the-air updates
 * [`snake`](https://github.com/holepunchto/snake) desktop app, peer-to-peer snake
+* [`speedtest-p2p`](https://github.com/holepunchto/speedtest-p2p) tui app, peer-to-peer internet speed test
 
 ### Community Deployments
 
